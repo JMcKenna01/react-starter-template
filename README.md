@@ -18,3 +18,30 @@ Includes a clean project structure, ESLint, Prettier, and a simple counter compo
 
 ## 📂 Project Structure
 
+react-starter-template/
+├── index.html
+├── package.json
+├── vite.config.mjs
+├── .eslintrc.cjs
+├── .prettierrc
+├── .gitignore
+└── src/
+├── App.jsx
+├── main.jsx
+└── index.css
+
+
+---
+
+## 🛠️ Installation
+
+```bash
+npm install
+npm run dev
+
+## 🏗️ Build for Production
+npm run build
+npm run preview
+
+
+
